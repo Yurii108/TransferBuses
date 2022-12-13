@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# TransferBuses.com
+
+### Scripts
+
+---
+
+> `npm run-script start-{nickname from GitHub}` - starts an app with a test db and developer version in the site header
+> 
+> `npm run-script build-{nickname from GitHub}` - builds an app with a test db and developer version in the site header
+> 
+> `npm start` - starts an app with a test db and `<rmant7 Studio>_` version in the site header
+>
+> `npm run-script build-dev` - builds an app with a test db and `<rmant7 Studio>_` version in the site header
+> 
+> `npm run-script build` - builds an app with a production db without developer version in the site header
+
+*All values can be changed in the file `.env-cmdrc`, syntax as a JSON object*
+
+---
+
+
+### # `Please delete old files when deploying to AWS S3`
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +90,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
